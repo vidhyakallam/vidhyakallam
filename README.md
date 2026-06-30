@@ -2,7 +2,7 @@
 <h3 align="center">Software Development Engineer | Distributed Systems · AI/LLM Platforms · Cloud-Native Backend</h3>
 
 <p align="center">
-  📍 USA | Open to Relocate &nbsp;•&nbsp; 📧 vkallam214@gmail.com &nbsp;•&nbsp; 🔗 <a href="https://github.com/">GitHub</a>
+  📍 USA | Open to Relocate &nbsp;•&nbsp;📞 +1 945-313-9700 &nbsp;•&nbsp; 📧 vkallam214@gmail.com &nbsp;•&nbsp; 🔗 <a href="https://github.com/">GitHub</a>
 </p>
 
 ---
