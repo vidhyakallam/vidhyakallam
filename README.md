@@ -91,17 +91,6 @@ I'm a Software Development Engineer with **5+ years of experience** building dis
 - Built React/Redux components for internal content management dashboards
 
 ---
-
-### 📌 Featured Projects
-
-- **[AI Knowledge Copilot (RAG-based Q&A System)](https://github.com/yourusername/ai-knowledge-copilot)** — Retrieval-augmented generation app using OpenAI APIs and LangChain, with a vector database (Pinecone/Weaviate) for document embeddings, a FastAPI/Spring Boot backend, and a React chat UI for contextual Q&A over custom knowledge bases. *(Inspired by production RAG/LLM copilot work at C3.ai.)*
-
-- **[Banking Transaction Processing System](https://github.com/yourusername/banking-transaction-system)** — Microservices-based transaction management platform built with Java, Spring Boot, and PostgreSQL, using Kafka for asynchronous event streaming, idempotent transaction handling, and circuit-breaker patterns. Includes a React/Angular dashboard for tracking transaction status. *(Inspired by enterprise banking work with Citi & BNY Mellon clients.)*
-
-- **[Digital Asset Management Service](https://github.com/yourusername/digital-asset-management)** — Backend service for uploading, processing, and retrieving digital assets, with performance-critical processing in C++ (multithreading/STL), metadata storage in MongoDB, and deployment on Azure (Blob Storage + App Service). Includes a React/Redux frontend for browsing and managing assets. *(Inspired by content/digital asset workflow experience at Walmart.)*
-
----
-
 ### 📫 Connect with me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vkallam214@gmail.com)
